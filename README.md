@@ -1,4 +1,4 @@
-# Automatically Move To Next TextField🎥
+# Automatically Move To Next TextField 📝
 A sample project to demonstrate how to automatically move to the next text field in a Jetpack Compose form
 
 # Demo
